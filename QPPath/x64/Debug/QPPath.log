@@ -1,0 +1,147 @@
+﻿  main.cpp
+E:\TestC++\QPPath\include\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\TestC++\QPPath\QPPath\main.cpp(35,11): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(36,11): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(42,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(46,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(47,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(55,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(64,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(89,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(95,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(100,27): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(101,30): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(102,22): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(103,25): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(123,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(135,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(141,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(146,27): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(147,30): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(148,22): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(149,25): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(160,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(291,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(311,75): warning C4244: “参数”: 从“_Ty2”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty2=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(311,44): warning C4244: “参数”: 从“_Ty1”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty1=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(487,19): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(488,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(490,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(491,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(506,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(536,75): warning C4244: “参数”: 从“_Ty2”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty2=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(536,44): warning C4244: “参数”: 从“_Ty1”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty1=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(771,43): warning C4305: “+=”: 从“double”到“float”截断
+E:\TestC++\QPPath\QPPath\main.cpp(772,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(773,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(807,14): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(809,14): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(815,21): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(817,21): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(822,21): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(836,30): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(836,23): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+E:\TestC++\QPPath\QPPath\main.cpp(838,21): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(843,30): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+E:\TestC++\QPPath\QPPath\main.cpp(845,30): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+  QPPath.vcxproj -> E:\TestC++\QPPath\x64\Debug\QPPath.exe
